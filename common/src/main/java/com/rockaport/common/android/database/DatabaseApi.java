@@ -1,4 +1,4 @@
-package com.rockaport.common.android.database;
+package com.reese.common.android.database;
 
 import android.content.ContentValues;
 import android.support.annotation.Nullable;
